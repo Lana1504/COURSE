@@ -1,6 +1,6 @@
 # Резюме на должность
 
-\![](https://github.com/Lana1504/COURSE/blob/master/img/foto.img.jpg?raw=true)
+![foto](img/foto.img.jpg)
 
 КАЛЯБИНА СВЕТЛАНА
 
